@@ -1,1 +1,1 @@
-add_subdirectory(example)
+add_subdirectory(zero_dce)
